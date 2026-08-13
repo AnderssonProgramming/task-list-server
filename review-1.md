@@ -24,6 +24,3 @@ Estas funcionalidades cubren el ciclo de vida completo de una tarea: crearla, co
 
 En conjunto, estas tecnologías permiten ofrecer un producto confiable, rápido de construir y fácil de mantener y hacer crecer en el futuro.
 
-Adjunta el link de tu repositorio y rama en el campo a continuación 📦⬇️
-
-https://github.com/AnderssonProgramming/task-list-server/tree/review-1
