@@ -27,7 +27,3 @@ Estas funcionalidades cubren el ciclo de vida completo de una tarea: crearla, co
 - **Git y GitHub**: se usaron para guardar el historial de cambios del proyecto y organizar el trabajo en ramas, lo que permite desarrollar nuevas funciones de forma ordenada sin afectar lo que ya funciona.
 
 En conjunto, estas tecnologías permiten ofrecer un producto confiable, rápido de construir y fácil de mantener y hacer crecer en el futuro, con la garantía adicional de que la información que maneja siempre está protegida y validada.
-
-Adjunta el link de tu repositorio y rama en el campo a continuación 📦⬇️
-
-https://github.com/AnderssonProgramming/task-list-server/tree/review-2
